@@ -22,7 +22,7 @@ function Login({ onLogin }) {
       <input
         type="text"
         placeholder="PIN"
-        maxlength="4"
+        maxLength="4"
         className="login__input login__input--pin"
         ref={pinRef}
       />

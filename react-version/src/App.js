@@ -65,7 +65,7 @@ function App() {
               <input type="text" className="form__input form__input--user" />
               <input
                 type="password"
-                maxlength="6"
+                maxLength="6"
                 className="form__input form__input--pin"
               />
               <button className="form__btn form__btn--close">&rarr;</button>
